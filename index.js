@@ -298,7 +298,6 @@ function platformaGoreCokGonderiYapanFenomen(dizi, platform) {
   }
   return enBuyukAd;
 }
-console.log(platformaGoreCokGonderiYapanFenomen(fenomenler, "TikTok"));
 
 /* ***** GÖREVLERİN SONU ***** */
 
